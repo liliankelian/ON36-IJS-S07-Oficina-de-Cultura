@@ -1,0 +1,8 @@
+## Hello World
+GET http://localhost:3000
+
+## Alunos
+POST http://localhost:3000/alunos
+{
+
+}
